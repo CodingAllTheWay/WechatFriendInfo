@@ -2,7 +2,7 @@
 """
 Created on Mon Jul  9 20:45:45 2018
 
-@author: INSIS-rongbin
+@author: CodingAllTheWay
 """
 
 from collections import Counter
